@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/kashifahmad"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=kashifahmad&show_icons=true&theme=dark" align="right" height="150" /></a>
 - 👨‍💻 7+ years of experience as Android App Developer(Java/Kotlin) and Flutter
 - 🔭 Partner @techeasesol.com
-- 🌱 I’m currently learning reactNative
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning reactNative and Python.
+- 👯 I’m looking to collaborate on Civic related app.
+- 🤔 I’m looking for help on ASO.
 - 💬 Ask me about your Mobile application idea. 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: kashifuop99@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: always keen to Learn new things.
 
